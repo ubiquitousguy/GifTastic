@@ -1,0 +1,34 @@
+body {
+  background-image: url("../images/jungle.jpg");
+}
+
+#animals {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+#animalButtons {
+  text-align: center;
+  font-size: large;
+  margin-top: 100px;
+}
+
+#addButton {
+  
+  background: white;
+}
+
+#animal-form {
+  font-size: 20px;
+  text-align: center;
+
+}
+
+#animal-input {
+  font-size: 20px;
+}
+
+#addAnimal {
+  font-size: 25px;
+}
