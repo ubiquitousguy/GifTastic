@@ -13,9 +13,12 @@ body {
   font-size: large;
   margin-top: 100px;
 }
+button .animal {
+  font-size: 20px;
+}
 
 #addButton {
-  
+
   background: white;
 }
 
